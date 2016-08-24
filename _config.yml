@@ -1,0 +1,14 @@
+layout_spectrum: 0.5211779801174998
+typography_spectrum: 0.5894286527764052
+color:
+  brandStrength: 0.32294931495562196
+  lightness: 0.7164876731112599
+  saturation: 0.15905761811882257
+  rhythmicContrast: 0.005961176706478
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: DAS Global Intel
